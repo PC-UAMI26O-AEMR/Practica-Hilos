@@ -19,7 +19,7 @@ Nada màs empezar un programa en Java, existe un hilo de ejecuciòn que es el in
 __Diferencia entre objeto e hilo__: Un objeto es algo estàtoco, tiene una serie de atributos y mètodos. Quien realmente ejecuta esos mètodos es el hilo de ejecuciòn
 
 ## Creaciòn de hilos 
-Existen 2 formas de trabajar con hilos en cuanto a su creaciòn se refiere 
+Existen viarias formas de trabajar con hilos en cuanto a su creaciòn se refiere, unas de ellas son 
 +  Heredado de la clase `Thread`
 	 **Thread** es una clase proporcionada por Java para representar un hilo de ejecución. Si una clase hereda de **Thread**, puede sobrescribir el método **run()** para indicar el trabajo que realizará el hilo.
 	Los métodos principales que utilizaremos son:
