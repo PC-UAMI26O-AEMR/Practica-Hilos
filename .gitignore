@@ -1,0 +1,20 @@
+# Archivos ejecutables
+*.out
+*.exe
+flor 
+
+# Archivos objeto
+*.o
+
+# Directorios de compilación
+build/
+bin/
+
+# Archivos temporales
+*.tmp
+
+*.class
+out/
+build/
+.idea/
+.vscode/
